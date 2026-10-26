@@ -13,6 +13,10 @@ void main() {
     Scanner scanner2 = new Scanner(System.in);
     String odpowiedz = scanner2.nextLine();
     System.out.println("Oto co chcesz robić: " + odpowiedz);
+    System.out.println("Instrukcja");
+    System.out.println("Info dla użytkownika");
+    System.out.println("Jestem uczniem Zespołu Szkół im. ks. Stanisława Staszica w Tarnobrzegu. Mieszkam w Tarnobrzegu.");
+    System.out.println("Numer komputera: 2");
 }
 
 
